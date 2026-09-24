@@ -1,0 +1,17 @@
+{
+  "name": "unit2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http-server.js",
+  "scripts": {
+     "start": "node http-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "expresss": "^0.0.0",
+    "lowdb": "^1.0.0"
+  }
+}
